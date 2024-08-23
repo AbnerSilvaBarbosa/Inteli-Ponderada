@@ -27,7 +27,7 @@ Ele vai verificar automaticamente se ja tem os dados do manga no minio, caso nã
 
 Em seguida pode realizar uma requisição pelo postman para a seguinte rota com o body:
 
-```json
+```
 http://localhost:5000/data
 body: {
     "name":"Convenient Semi-Friend"
